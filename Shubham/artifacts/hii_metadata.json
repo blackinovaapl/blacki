@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "mas",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Shubham/User input.sol": "hii"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Shubham/User input.sol": {
+			"keccak256": "0x1a543c352a17131a084c0cdb05d16822763ee19387f8edcf68c215ade8bc820e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://24c9515e39c2832ee9c67284828ff17501d7d98a2f4485da8a90ec7a7b8643d7",
+				"dweb:/ipfs/QmRogeqarkxDWN2MBYusEYpYd7DkRNLyA86FzHGN4BRuKQ"
+			]
+		}
+	},
+	"version": 1
+}

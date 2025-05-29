@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getter",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {
+				"getter()": {
+					"notice": "we are using getter function to get the value of global variable and print it in ;local variable"
+				}
+			},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Shubham/get and set function.sol": "shubh"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Shubham/get and set function.sol": {
+			"keccak256": "0xcffdab3dd975efb13856c73cda4a14c1c5d66477ba3aaf93e4e2d64c31627f81",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4b5d451a77fbffe27ccfa40ab08a3550ec7b644fd198d4e9db509c6b6c1caaaa",
+				"dweb:/ipfs/QmeWeCvaturRfHW9w3RBkGchxzauzuAxghDrTuEcKQdZz7"
+			]
+		}
+	},
+	"version": 1
+}
