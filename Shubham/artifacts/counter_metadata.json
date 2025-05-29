@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Shubham/counter-contract.sol": "counter"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Shubham/counter-contract.sol": {
+			"keccak256": "0xa2c248742cc4b7bc99d7d105aeb9564d8aa2ad7221ce30cf79cb32dcb62b3666",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f61ab03ff2e10824f12f2c6155eae8be330e6717c22f0a94d36e3914a1537ca4",
+				"dweb:/ipfs/QmVC6kCYfsAvZzigmp9fFMAzC291VbHHNz3EkZvpLu7aXA"
+			]
+		}
+	},
+	"version": 1
+}
