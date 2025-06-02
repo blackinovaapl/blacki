@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Shubham/projecttrail.sol": "lott"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Shubham/projecttrail.sol": {
+			"keccak256": "0x930dc72613804e8702bd4dc1db5d130be5406a29e6a38d3631392bf3f6d5cc8f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://41ecea50f83c5387f42ccfe5c509d82f2a9ca4aedd8012b10c47015c1176c7a7",
+				"dweb:/ipfs/QmSxHukLfatKwRuxMeYn7ySenNsuqvjWSVZ9edAiNxHzJb"
+			]
+		}
+	},
+	"version": 1
+}
