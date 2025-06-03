@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "age",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Shubham/age.sol": "age"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Shubham/age.sol": {
+			"keccak256": "0x71c8d66ff5bc629bed3d6c6ab03a0c8cdf3923699df3ba11c030356f96405452",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1a2b91b21b45ac85452e229c6f5437efe5f2c4668d729858505b4b1c5f454f45",
+				"dweb:/ipfs/QmXgCivNeHhJNhUFmmS279gU9kdV9VcYQRmEn9mgMfqdBr"
+			]
+		}
+	},
+	"version": 1
+}
