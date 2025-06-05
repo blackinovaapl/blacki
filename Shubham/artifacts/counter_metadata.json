@@ -4,7 +4,53 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "dec",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "inc",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +64,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Shubham/counter-contract.sol": "counter"
+			"Shubham/counter contract.sol": "counter"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -32,12 +78,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Shubham/counter-contract.sol": {
-			"keccak256": "0xa2c248742cc4b7bc99d7d105aeb9564d8aa2ad7221ce30cf79cb32dcb62b3666",
+		"Shubham/counter contract.sol": {
+			"keccak256": "0xc5a817b44148d740af56c8e92868bc5eddf8c5c452f918251ad9e2973dd4907a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f61ab03ff2e10824f12f2c6155eae8be330e6717c22f0a94d36e3914a1537ca4",
-				"dweb:/ipfs/QmVC6kCYfsAvZzigmp9fFMAzC291VbHHNz3EkZvpLu7aXA"
+				"bzz-raw://519216b4f382d938d49d9ff32a7f5ed4905205bc05a5271ffcc10eb7fe03210a",
+				"dweb:/ipfs/QmRBVy6rjJ5GZ6Bd8PFKXn7iCYhhQpiVb3FDMTPWRHBfS7"
 			]
 		}
 	},
